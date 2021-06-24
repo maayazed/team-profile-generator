@@ -1,3 +1,7 @@
+# Additional Files
+.DS_Store
+MOCK.md
+
 # Logs
 logs
 *.log
