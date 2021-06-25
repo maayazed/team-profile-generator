@@ -21,7 +21,8 @@ describe('employee class', () => {
     });
     describe('getRole', () => {
         it('should be Employee from getRole()', () =>{
-            expect(worker.getRole()).toEqual('Employee');
+            expect(worker.getRole()).toBe('Employee');
+            console.log(worker);
         });
     });
 });

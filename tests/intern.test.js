@@ -2,7 +2,7 @@ const intern = require('../lib/intern');
 
 
 describe('intern class', () => {
-    const worker = new intern('Intern', 'University');
+    const worker = new intern('Steve', '01', 'this@this.com', 'University', this.role);
 
     describe('getSchool', () => {
         it('should return as University from getSchool()', () =>{
@@ -11,7 +11,8 @@ describe('intern class', () => {
     });
     describe('getRole', () => {
         it('should be Intern from getRole()', () =>{
-            expect(worker.getRole()).toEqual('Intern');
+            expect(worker.getRole()).toBe('Intern');
+            console.log(worker);
         });
     });
 });
