@@ -2,7 +2,7 @@ const employee = require('../lib/employee');
 
 
 describe('employee class', () => {
-    const worker = new employee('Steve', '01', 'this@this.com');
+    const worker = new employee('Steve', '01', 'this@this.com', 'Employee');
 
     describe('getName', () => {
         it('should return as steve from getName()', () =>{
@@ -21,7 +21,7 @@ describe('employee class', () => {
     });
     describe('getRole', () => {
         it('should be Employee from getRole()', () =>{
-            expect(worker.getRole()).toEqual(true);
+            expect(worker.getRole()).toEqual('Employee');
         });
     });
 });
