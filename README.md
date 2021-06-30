@@ -30,7 +30,7 @@
 
 <br>
 
-![a relative link](team.html)![Screenshot 2021-06-30 173203](https://user-images.githubusercontent.com/79816212/124039761-32457a00-d9c9-11eb-9295-977f0862fc17.png)]
+![Screenshot 2021-06-30 173203](https://user-images.githubusercontent.com/79816212/124039761-32457a00-d9c9-11eb-9295-977f0862fc17.png)
 
 <hr>
 
