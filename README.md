@@ -14,7 +14,7 @@
     <p><a href='#user'>User Guidelines</a></p>
     <p><a href='#license'>Licensing</a></p>
     <p><a href='#contribute'>Contributors</a></p>
-    <p><a href='#test'>Test Execution</a></p>
+    <p><a href='#test'>Test and Execution</a></p>
     <p><a href='#contact'>Contact</a></p>
 
 <hr>
@@ -73,7 +73,7 @@
 <hr>
 
 <div align='center'>
-    <h3><a id='test'>Execution and Tests</a></h3>
+    <h3><a id='test'>Test and Execution</a></h3>
 </div>
 
 <div>
