@@ -104,9 +104,9 @@ const addEngineer = () => {
         {
             type: 'input',
             name: 'github',
-            message: `Enter team Engineer's github user:`,
+            message: `Enter team Engineer's github username:`,
         }
-    ])
+    ]);
 };
 
 const addIntern = () => {
@@ -133,7 +133,7 @@ const addIntern = () => {
             message: `Enter team Intern's college:`,
         }
     ]);
-}
+};
 
 // initialization
 start();
