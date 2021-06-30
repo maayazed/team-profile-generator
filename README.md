@@ -25,7 +25,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team Profile Generator is a javascript application that dynamically generates a customized team profile utilizing display with html and css <a href='https://getbootstrap.com/'><code>bootstrap</code></a> elements. Your team will include a manager, engineer, and intern.
 </div>
 
 <hr>
@@ -36,7 +36,7 @@
 
 <div>
 <h4>Instructions: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download from repository. Node is required to initialize the javascript.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download from repository. Node is required to initialize the index.js file.
 </div>
 
 <hr>
