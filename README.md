@@ -77,8 +77,14 @@
 </div>
 
 <div>
-<h4> Initialization: </h4>
+<h4> Execution: </h4>
 <pre><code>node index.js</code></pre>
+</div>
+
+<div>
+<h4> Testing: </h4>
+<p>Navigate to the folder labeled tests. Test execution is required to have current working directory set as <code>./team-profile-generator/tests</code></p>
+<pre><code>npm test</code></pre>
 </div>
 
 <hr>
