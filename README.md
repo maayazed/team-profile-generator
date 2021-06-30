@@ -28,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team Profile Generator is a javascript application that dynamically generates a customized team profile utilizing display with html and css <a href='https://getbootstrap.com/'><code>bootstrap</code></a> elements. Your team will include a manager, engineer, and intern.
 </div>
 
+![Screenshot 2021-06-30 173203](https://user-images.githubusercontent.com/79816212/124039761-32457a00-d9c9-11eb-9295-977f0862fc17.png)
+
 <hr>
 
 <div align='center'>
