@@ -51,7 +51,7 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run index.js with node. The command-line prompts the user for inputs and selections from <a href='https://www.npmjs.com/package/inquirer'><code>inquirer</code></a> to customize the file myTeam.html generation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the command line install the package.json dependencies then run index.js with node. The command-line prompts the user for inputs and selections from <a href='https://www.npmjs.com/package/inquirer'><code>inquirer</code></a> to customize the file myTeam.html generation.
 </div>
 
 <hr>
@@ -81,12 +81,13 @@
 </div>
 
 <div>
-<h4> Execution: </h4>
+<h4> Execution: Command Line</h4>
+<pre><code>npm i</code></pre>
 <pre><code>node index.js</code></pre>
 </div>
 
 <div>
-<h4> Testing: </h4>
+<h4> Testing: Command Line</h4>
 <p>Navigate to the folder labeled tests. Test execution is required to have current working directory set as <code>./team-profile-generator/tests</code></p>
 <pre><code>npm test</code></pre>
 </div>
