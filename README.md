@@ -88,7 +88,7 @@
 
 <div>
 <h4> Testing: Command Line</h4>
-<p>Navigate to the folder labeled tests. Test execution is required to have current working directory set as <code>./team-profile-generator/tests</code></p>
+<p>Navigate to the folder labeled tests. Test execution is required to have the current working directory set as <code>./team-profile-generator/tests</code>.</p>
 <pre><code>npm test</code></pre>
 </div>
 
